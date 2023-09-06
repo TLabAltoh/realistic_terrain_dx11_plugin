@@ -20,7 +20,7 @@ Install [pybind11](https://github.com/pybind/pybind11) and [python-3.10.8 (sourc
 3. Create ```./build``` then move to ```./build``` and execute the following command  
 ```
 cmake ..
-cmake --build
+cmake --build .
 ```
 
 
